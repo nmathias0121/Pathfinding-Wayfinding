@@ -13,3 +13,11 @@ Developed in Unity Application
 - Player (Assets): Human-like model that walks towards its goal
 - Goal (Assets): Treasure Chest with double the coins
 - Waypoints (Assets): Treasure coins are used as waypoints to create a path for the player to reach their goal.
+
+## Scenario:
+- Player starts from the starting point.
+- Player has to reach the goal in the path connected by the given waypoints.
+- Player has to stop at the goal.
+
+## Open Project : 
+&nbsp;&nbsp;&nbsp;&nbsp;**Wayfinding Folder > Assets > Unity-Pathfinding-Wayfinding.unity**
